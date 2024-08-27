@@ -1,0 +1,6 @@
+@API_HostAddress = http://localhost:5128
+
+GET {{API_HostAddress}}/courses/
+Accept: application/json
+
+###
